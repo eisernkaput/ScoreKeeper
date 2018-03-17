@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="teamName1">Team A</string>
+    <string name="teamName2">Team B</string>
+    <string name="teamScore">0</string>
+    <string name="onePoint">+1 Point</string>
+    <string name="redCard">Red card</string>
+    <string name="resetScore">Reset</string>
+    <string name="setNum">Volleyball Scorekeeper</string>
+    <string name="setNum1">Set №: </string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="emptySpace"> </string>
+
+
+
+</resources>
